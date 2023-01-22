@@ -10,38 +10,38 @@
 ---
 
 ## **R1 - Description of your website**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 A platform for individuals and families to browse and adopt animals ranging from cat, dog and other animals in need of a new home. Users are able to search based on the breed. The overall website will contain photos, information about each animal and application processes in order to adopt a new animal.
 Further information can be found either through the FAQ page or after booking a visit to friendly staff on assistance with furry friends. We will aim to provide the best possible information also through submitting a ticket.
 ...
 
 ---
 ## **R2 - Dataflow Diagram**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 
 ...
 
 ---
 ## **R3 - Application Architecture Diagram**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 
 ...
 
 ---
 ## **R4 - User Stories**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 
 ...
 
 ---
 ## **R5 - Wireframes for multiple standard screen sizes, created using industry standard software**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 
 ...
 
 ---
 ## **R6 - Screenshots of your Trello board throughout the duration of the project**
-[Top](#petadoptionservice_t3a2)
+(#petadoptionservice_T3A2)
 
 ...
 
