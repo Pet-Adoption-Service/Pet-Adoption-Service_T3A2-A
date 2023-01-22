@@ -11,7 +11,8 @@
 
 ## **R1 - Description of your website**
 [Top](#petadoptionservice_t3a2)
-
+A platform for individuals and families to browse and adopt animals ranging from cat, dog and other animals in need of a new home. Users are able to search based on the breed. The overall website will contain photos, information about each animal and application processes in order to adopt a new animal.
+Further information can be found either through the FAQ page or after booking a visit to friendly staff on assistance with furry friends. We will aim to provide the best possible information also through submitting a ticket.
 ...
 
 ---
