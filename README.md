@@ -1,4 +1,4 @@
-# **PetAdoptionService_T3A2** <!-- omit in toc -->
+# **Pet Adoption Service_T3A2** <!-- omit in toc -->
 ## **Table of Contents:** <!-- omit in toc -->
 - [**R1 - Description of your website**](#r1---description-of-your-website)
 - [**R2 - Dataflow Diagram**](#r2---dataflow-diagram)
