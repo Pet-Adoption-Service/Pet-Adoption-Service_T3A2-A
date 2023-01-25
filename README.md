@@ -50,7 +50,7 @@ Wireframes were created using Balsamiq:
 Home Page:
 ![home_desktop](/Images/Home_Desktop.png)
 ![home_tablet](/Images/Home_Tablet.png)
-![home_mobile](/Images/Home_Mobile.png)
+![home_mobile](Images/Home_Mobile.png)
 Search Page:
 ![search_desktop](/Images/Search_page_Desktop.png)
 ![search_tablet](/Images/Search_page_Tablet.png)
