@@ -22,24 +22,24 @@ Further information can be found either through the FAQ page or after booking a 
 
 This is our data flow diagram using the Gane Sarson methodology.
 
-![DFD](Img/DFD.png)
+![DFD](Images/DFD.png)
 
 ---
 
 ## **R3 - Application Architecture Diagram**
 
-![AAD](/Img/AAD.png)
+![AAD](/Images/AAD.png)
 
 ---
 
 ## **R4 - User Stories**
 
-![user1](/Img/user1.png)
-![user2](/Img/user2.png)
-![user3](/Img/user3.png)
-![user4](/Img/user4.png)
-![user5](/Img/user5.png)
-![user6](/Img/user6.png)
+![user1](/Images/user1.png)
+![user2](/Images/user2.png)
+![user3](/Images/user3.png)
+![user4](/Images/user4.png)
+![user5](/Images/user5.png)
+![user6](/Images/user6.png)
 
 ---
 
@@ -48,17 +48,17 @@ This is our data flow diagram using the Gane Sarson methodology.
 Wireframes were created using Balsamiq:
 
 Home Page:
-![home_desktop](/Img/Home_Desktop.png)
-![home_tablet](/Img/Home_Tablet.png)
-![home_mobile](Img/Home_Mobile.png)
+![home_desktop](/Images/Home_Desktop.png)
+![home_tablet](/Images/Home_Tablet.png)
+![home_mobile](Images/Home_Mobile.png)
 Search Page:
-![search_desktop](/Img/Search_page_Desktop.png)
-![search_tablet](/Img/Search_page_Tablet.png)
-![search_mobile](/Img/Search_page_Mobile.png)
+![search_desktop](/Images/Search_page_Desktop.png)
+![search_tablet](/Images/Search_page_Tablet.png)
+![search_mobile](/Images/Search_page_Mobile.png)
 Profile Page:
-![profile_desktop](/Img/Profile_Desktop.png)
-![profile_tablet](/Img/Profile_Tablet.png)
-![profile_mobile](/Img/Profile_Mobile.png)
+![profile_desktop](/Images/Profile_Desktop.png)
+![profile_tablet](/Images/Profile_Tablet.png)
+![profile_mobile](/Images/Profile_Mobile.png)
 
 ---
 
@@ -67,13 +67,13 @@ Profile Page:
 The link to our Trello board is available [Here](https://trello.com/b/XB2z1h7g
 )!
 
-![screenshot1](Img/Screenshot1.png)
-![screenshot2](Img/Screenshot2.png)
-![screenshot3](Img/Screenshot3.png)
-![screenshot4](Img/Screenshot4.png)
-![screenshot5a](Img/Screenshot5a.png)
-![screenshot5b](Img/Screenshot5b.png)
-![screenshot6a](Img/Screenshot6a.png)
-![screenshot6b](Img/Screenshot6b.png)
+![screenshot1](Images/Screenshot1.png)
+![screenshot2](Images/Screenshot2.png)
+![screenshot3](Images/Screenshot3.png)
+![screenshot4](Images/Screenshot4.png)
+![screenshot5a](Images/Screenshot5a.png)
+![screenshot5b](Images/Screenshot5b.png)
+![screenshot6a](Images/Screenshot6a.png)
+![screenshot6b](Images/Screenshot6b.png)
 
 ---
