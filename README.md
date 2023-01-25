@@ -38,12 +38,15 @@ This is our data flow diagram using the Gane Sarson methodology.
 ## **R5 - Wireframes for multiple standard screen sizes, created using industry standard software**
 
 Wireframes were created using Balsamiq:
+Home Page:
 ![home_desktop](/Images/Home_Desktop.png)
 ![home_tablet](/Images/Home_Mobile.png)
 ![home_mobile](/Images/Home_Tablet.png)
+Search Page:
 ![search_desktop](/Images/Search_page_Desktop.png)
 ![search_tablet](/Images/Search_page_Tablet.png)
 ![search_mobile](/Images/Search_page_Mobile.png)
+Profile Page:
 ![profile_desktop](/Images/Profile_Desktop.png)
 ![profile_tablet](/Images/Profile_Tablet.png)
 ![profile_mobile](/Images/Profile_Mobile.png)
@@ -51,9 +54,16 @@ Wireframes were created using Balsamiq:
 ---
 ## **R6 - Screenshots of your Trello board throughout the duration of the project**
 
-Our Trello board is available [Here](https://trello.com/b/XB2z1h7g
+The link to our Trello board is available [Here](https://trello.com/b/XB2z1h7g
 )!
 
-![]{}
+![screenshot1](Images/Screenshot1.png)
+![screenshot2](Images/Screenshot2.png)
+![screenshot3](Images/Screenshot3.png)
+![screenshot4](Images/Screenshot4.png)
+![screenshot5a](Images/Screenshot5a.png)
+![screenshot5b](Images/Screenshot5b.png)
+![screenshot6a](Images/Screenshot6a.png)
+![screenshot6b](Images/Screenshot6b.png)
 
 ---
