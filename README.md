@@ -46,6 +46,7 @@ This is our data flow diagram using the Gane Sarson methodology.
 ## **R5 - Wireframes for multiple standard screen sizes, created using industry standard software**
 
 Wireframes were created using Balsamiq:
+
 Home Page:
 ![home_desktop](/Images/Home_Desktop.png)
 ![home_tablet](/Images/Home_Mobile.png)
